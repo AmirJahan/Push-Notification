@@ -1,0 +1,6 @@
+framework module Pods_ServerPushNotification {
+  umbrella header "Pods-ServerPushNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
